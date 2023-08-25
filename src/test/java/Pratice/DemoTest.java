@@ -13,7 +13,7 @@ public class DemoTest {
 		//bye
 		//pushBack
 //2nd push
-
+//3rd pull
 
 	}
 }
